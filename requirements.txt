@@ -19,7 +19,7 @@ Flask==2.0.1
 future==0.18.2
 idna==3.2
 ipykernel==5.5.5
-ipython==7.26.0
+ipython
 ipython-genutils==0.2.0
 ipywidgets==7.6.3
 itsdangerous==2.0.1
@@ -30,7 +30,7 @@ Js2Py==0.71
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==7.0.1
-jupyter-console==5.2.0
+jupyter-console
 jupyter-core==4.7.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0

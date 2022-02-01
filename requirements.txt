@@ -17,6 +17,7 @@ docopt==0.6.2
 entrypoints==0.3
 Flask==2.0.1
 future==0.18.2
+gunicorn
 idna==3.2
 ipykernel==5.5.5
 ipython

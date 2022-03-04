@@ -1,11 +1,11 @@
 Flask==2.0.1
 gunicorn==20.1.0
-ipython==7.26.0
+ipython
 Jinja2==3.0.1
 joblib==1.0.1
 jupyter==1.0.0
 jupyter-client==7.0.1
-jupyter-console==5.2.0
+jupyter-console
 jupyter-core==4.7.1
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.0
